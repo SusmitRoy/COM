@@ -1,1 +1,2 @@
-# COM
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
